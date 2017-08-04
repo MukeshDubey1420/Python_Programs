@@ -1,0 +1,44 @@
+[33mcommit 2027470e0f5d61ca799281e1e8d4afd73693736f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m)[m
+Author: Sandeep Sihari <kumarsandeep91@gmail.com>
+Date:   Fri Aug 4 14:47:26 2017 +0530
+
+    character input problem ..
+
+[33mcommit 67fe0abdc8bb5cef207c2d6928e461cdfd45bfad[m
+Merge: 66b8b9c 58d0382
+Author: Sandeep Sihari <kumarsandeep91@users.noreply.github.com>
+Date:   Fri Aug 4 14:39:07 2017 +0530
+
+    Merge pull request #1 from Ishanvaid9/master
+    
+    Second Odd or Even problem added
+
+[33mcommit 58d0382075e3bf4d5204c61fff7e86a15d2e88e9[m
+Author: vaidishan9@gmail.com <vaidishan9@gmail.com>
+Date:   Fri Aug 4 14:35:09 2017 +0530
+
+    odd or even problem described.
+
+[33mcommit 74fe39d3a0ba2567be170002ebc6690e807ae4d2[m
+Author: vaidishan9@gmail.com <vaidishan9@gmail.com>
+Date:   Fri Aug 4 14:33:08 2017 +0530
+
+    odd or even problem described.
+
+[33mcommit 66b8b9c97792569324385e15d3ef55fc2730573a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sandeep Sihari <kumarsandeep91@gmail.com>
+Date:   Fri Aug 4 14:19:30 2017 +0530
+
+    github related markdown syntax fixed..
+
+[33mcommit d3ad3a73b6576ffbcabc18bed3340cf1991d8fca[m
+Author: Sandeep Sihari <kumarsandeep91@gmail.com>
+Date:   Fri Aug 4 14:16:39 2017 +0530
+
+    first problem initialized..
+
+[33mcommit ffdce8d5b6d7d77f26d41e5d3a4dfafa391a5ee7[m
+Author: Sandeep Sihari <kumarsandeep91@users.noreply.github.com>
+Date:   Fri Aug 4 14:02:01 2017 +0530
+
+    Initial commit

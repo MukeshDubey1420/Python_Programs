@@ -20,7 +20,7 @@ To get user input in Python (2.7.x), the command you use is [raw_input()](https:
 For example,
 
 ```python
-name = input("Give me your name: ")
+name = raw_input("Give me your name: ")
 print("Your name is " + name)
 ```
 
@@ -35,9 +35,9 @@ What happens at the end of raw_input() is that it waits for the user to type som
 
 #### Manipulating strings (a few ways)
 
-What you get from the input() function is a string. What can you do with it?
+What you get from the raw_input() function is a string. What can you do with it?
 
-First: Make the string into a number. Let’s say you are 100% positive that the user entered a number. You can turn the string into an integer with the function [int()](https://docs.python.org/2/library/functions.html#int). (In a later exercise or two or three there will be questions about what to do when the user does NOT enter a number and you try to do this; for now don’t worry about that problem). Here is what this looks like:
+First: Make the string into a number. Let’s say you are 100% positive that the user entered a number. You can turn the string into an integer with the function [int()](https://docs.python.org/2/library/functions.html#int). Here is what this looks like:
 
 ```python
 age = raw_input("Enter your age: ")
@@ -47,7 +47,7 @@ age = int(age)
 (or, if you want to be more compact with your code)
 
 ```python
-age = int(input("Enter your age: "))
+age = int(raw_input("Enter your age: "))
 ```
 	
 In both cases, age will hold a variable that is an integer, and now you can do math with it.

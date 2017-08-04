@@ -13,4 +13,4 @@ Topics:
 
 1. Reading a file, in [Exercise 21](readfromfile.md)
 2. Number types and converting to integers from strings, in [Exercise 1](characterinput.md)
-3. Lists, in [Exercise 3]() and [Exercise 5]()
+3. Lists, in [Exercise 3](listlessthanten.md) and [Exercise 5](listoverlap.md)

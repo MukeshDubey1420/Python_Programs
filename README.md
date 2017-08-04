@@ -15,8 +15,8 @@ This is a project for students to check their skills in **python** programming.
 
 [P04 - List Comprehensions](ListComprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
-[P05 - Rock Paper Scissors](rockpaperscissors.md) ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" } ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" } ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" }
+[P05 - Rock Paper Scissors](rockpaperscissors.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
-[P06 - Guessing Game One](guessinggameone.md) ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" } ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" } ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" }
+[P06 - Guessing Game One](guessinggameone.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
-[P04 - List Comprehensions](listoverlapcomprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" } ![Difficulty Level](diff.png "Difficulty level" ){: height: "25px" width="25px" }
+[P04 - List Comprehensions](listoverlapcomprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )

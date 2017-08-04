@@ -19,4 +19,4 @@ This is a project for students to check their skills in **python** programming.
 
 [P06 - Guessing Game One](guessinggameone.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
-[P04 - List Comprehensions](listoverlapcomprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+[P07 - List Overlap Comprehensions](listoverlapcomprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )

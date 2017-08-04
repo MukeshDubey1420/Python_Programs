@@ -1,6 +1,6 @@
-# Python Programs
-##Author : Sandeep Kumar
+#  Python Programs
+## Author : Sandeep Kumar
 This is a project for students to check their skills in **python** programming.
-###Index
+### Index
 
 [P01 - Character Input](characterinput.md)

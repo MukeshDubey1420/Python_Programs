@@ -26,3 +26,15 @@ This is a project for students to check their skills in **python** programming.
 [P09 - Guessing Game One](guessinggameone.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
 [P10 - List Overlap Comprehensions](listoverlapcomprehensions.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P11 - Check Primality Functions](checkprimality.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P12 - List Ends](listends.md) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P13 - Fibonacci](fibonacci.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P14 - List Remove Duplicates](listremoveduplicates.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P15 - Reverse Word Order](reversewordorder.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P16 - Password Generato](passwordgenerator.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )

@@ -43,3 +43,7 @@ This is a project for students to check their skills in **python** programming.
 [P17 - Decode A Web Page](decodewebpage.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
 [P18 - Cows And Bulls](cowsandbulls.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P19 - Decode A Web Page Two](decodeawebpage2.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P20 - Element Search](elementsearch.md) ![Difficulty Level](diff.png "Difficulty level" )

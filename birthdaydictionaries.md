@@ -122,6 +122,7 @@ These checks can be used together with if statements to make more complex progra
 We’ve talked about strings a lot on this blog:
 
 [Exercise 1 about printing basic strings](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/01/29/01-character-input.html)) 
+
 [Exercise 6 about turning strings into lists](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))
 
 [Exercise 15 about where `join` statements are introduced](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))

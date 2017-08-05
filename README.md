@@ -39,3 +39,7 @@ This is a project for students to check their skills in **python** programming.
 [P15 - Reverse Word Order](reversewordorder.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
 
 [P16 - Password Generator](passwordgenerator.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P17 - Decode A Web Page](decodewebpage.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P18 - Cows And Bulls](cowsandbulls.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )

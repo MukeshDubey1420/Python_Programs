@@ -121,11 +121,10 @@ These checks can be used together with if statements to make more complex progra
 
 We’ve talked about strings a lot on this blog:
 
-[Exercise 1 about printing basic strings](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/01/29/01-character-input.html)) ![level](http://www.freepngimg.com/download/light/2-2-light-free-download-png.png)
+[Exercise 1 about printing basic strings](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/01/29/01-character-input.html)) 
+[Exercise 6 about turning strings into lists](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))
 
-[Exercise 6 about turning strings into lists](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))  ![level](http://www.freepngimg.com/download/light/2-2-light-free-download-png.png)
-
-[Exercise 15 about where `join` statements are introduced](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))![level](http://www.freepngimg.com/download/light/2-2-light-free-download-png.png)
+[Exercise 15 about where `join` statements are introduced](http://www.practicepython.org/exercise/2017/01/24/(/exercise/2014/03/12/06-string-lists.html))
    
 But we want to introduce one more optional concept for this exercise related to string formatting. There are a number of ways to format strings in Python, so I am just going to show you one quick way for a scenario you find yourself in often while programming.
 

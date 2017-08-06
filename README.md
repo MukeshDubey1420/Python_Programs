@@ -53,3 +53,29 @@ This is a project for students to check their skills in **python** programming.
 [P22 - Read From A File](readfromfile.md) ![Difficulty Level](diff.png "Difficulty level" )
 
 [P23 - File Overlap](fileoverlap.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P24 - Draw A Game Board ](drawagameboard.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P25 - Guessing Game Two ](guessinggametwo.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level")
+
+[P26 - Check Tic Tac Toe ](checktictactoe.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P27 - Tic Tac Toe Draw ](tictactoedraw.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P28 - Max Of Three ](maxofthree.md) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P29 - Tic Tac Toe Game](tictactoegame.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level")
+
+[P30 - Pick Word ](pickword.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P31 - Hangman ](hangman.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P32 - Guess Letters ](guessletter.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P33 - Birthday Dictionaries ](birthdaydictionaries.md) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P34 - Birthdat Json ](birthdayjson.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P35 - Birthdat Months ](birthdaymonth.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )
+
+[P36 - Birthdat Plots ](birthdayplot.md) ![Difficulty Level](diff.png "Difficulty level" ) ![Difficulty Level](diff.png "Difficulty level" )

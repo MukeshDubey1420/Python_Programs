@@ -1,9 +1,9 @@
 #  Python Programs
 ## Contributors :
-* **Sandeep Kumar**
-* **Ishan Vaid**
-* **Sant Sharma**
-* **Mukesh Dubey**
+* **[Sandeep Kumar](https://github.com/kumarsandeep91)**
+* **[Ishan Vaid](https://github.com/Ishanvaid9)**
+* **[Sant Sharma](https://github.com/santk97)**
+* **[Mukesh Dubey](https://github.com/MukeshDubey1420)**
 
 This is a project for students to check their skills in **python** programming.
 ### Index
